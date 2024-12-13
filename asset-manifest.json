@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jarvis/static/css/main.28048392.css",
+    "main.js": "/jarvis/static/js/main.aa386877.js",
+    "index.html": "/jarvis/index.html",
+    "main.28048392.css.map": "/jarvis/static/css/main.28048392.css.map",
+    "main.aa386877.js.map": "/jarvis/static/js/main.aa386877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28048392.css",
+    "static/js/main.aa386877.js"
+  ]
+}
